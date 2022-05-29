@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# GizmoE-commerce Back End Starter Code
 
 ## Description
 
